@@ -1,5 +1,4 @@
 alias gs="git status"
-alias gc="git commit -m" 
 alias v="vim"
 alias up="cd .."
 
